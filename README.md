@@ -15,5 +15,6 @@ linux
 ```
 git clone https://github.com/SkajpCZ/ProxyScraper
 cd ProxyScraper
+pip install -r requirements.txt
 python3 ProxyScraper.py
 ```
