@@ -1,5 +1,5 @@
 # Proxy Scraper
-### by DeadSkajp#5906
+### by Skajpik#3232
 
 - Scrapes 37 sites for proxies
 - Saves them in txt file
